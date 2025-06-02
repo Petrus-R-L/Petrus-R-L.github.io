@@ -1,0 +1,83 @@
+{
+    "titulo": "Lanchonete da Tia Van",
+    "subtitulo": "Nosso Cardápio",
+    "categorias": [
+      {
+        "nome": "Lanches",
+        "itens": [
+          {
+            "id": 1,
+            "nome": "Filé Bacon Salada",
+            "descricao": "Um lanche delicioso para matar sua fome!",
+            "preco": 34.00,
+            "imagem": "imagens/lanche-gostoso.jpg"
+          },
+          {
+            "id": 2,
+            "nome": "Frango Egg Salada",
+            "descricao": "Um lanche grande e saboroso para você.",
+            "preco": 28.00,
+            "imagem": "imagens/super-lanche.jpg"
+          }
+        ]
+      },
+      {
+        "nome": "Salgados",
+        "itens": [
+          {
+            "id": 3,
+            "nome": "Coxinha Cremosa",
+            "descricao": "Uma coxinha cremosa e recheada.",
+            "preco": 4.50,
+            "imagem": "imagens/coxinha-cremosa.jpg"
+          },
+          {
+            "id": 4,
+            "nome": "Pastel Quentinho",
+            "descricao": "Um pastel frito na hora com muito recheio.",
+            "preco": 5.00,
+            "imagem": "imagens/pastel-quentinho.jpg"
+          }
+        ]
+      },
+      {
+        "nome": "Doces",
+        "itens": [
+          {
+            "id": 5,
+            "nome": "Brigadeiro Delícia",
+            "descricao": "Um brigadeiro feito com muito carinho.",
+            "preco": 2.50,
+            "imagem": "imagens/brigadeiro.jpg"
+          },
+          {
+            "id": 6,
+            "nome": "Bolo Caseiro",
+            "descricao": "Uma fatia de bolo fofinho e saboroso.",
+            "preco": 6.00,
+            "imagem": "imagens/bolo-caseiro.jpg"
+          }
+        ]
+      },
+      {
+        "nome": "Bebidas",
+        "itens": [
+          {
+            "id": 7,
+            "nome": "Refrigerante Gelado",
+            "descricao": "Um refrigerante bem gelado para acompanhar.",
+            "preco": 4.00,
+            "imagem": "imagens/refrigerante.jpg"
+          },
+          {
+            "id": 8,
+            "nome": "Suco Refrescante",
+            "descricao": "Um suco natural para refrescar seu dia.",
+            "preco": 5.50,
+            "imagem": "imagens/suco.jpg"
+          }
+        ]
+      }
+    ]
+  }
+  
