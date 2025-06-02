@@ -1,0 +1,83 @@
+{
+    "titulo": "Lanchonete da Tia Van",
+    "subtitulo": "Nosso Cardápio",
+    "categorias": [
+      {
+        "nome": "Lanches",
+        "itens": [
+          {
+            "id": 1,
+            "nome": "Filé Bacon Salada",
+            "descricao": "Filé, alface, tomate, maionese, bacon e queijo.",
+            "preco": 34.00,
+            "imagem": "imagens/fbs.jpg"
+          },
+          {
+            "id": 2,
+            "nome": "Frango Egg Salada",
+            "descricao": "Frango, alface, tomate, maionese, ovo e queijo.",
+            "preco": 28.00,
+            "imagem": "imagens/fes.jpg"
+          }
+        ]
+      },
+      {
+        "nome": "Salgados",
+        "itens": [
+          {
+            "id": 3,
+            "nome": "Coxinha Cremosa",
+            "descricao": "Uma coxinha cremosa e recheada.",
+            "preco": 4.50,
+            "imagem": "imagens/coxinha-cremosa.jpg"
+          },
+          {
+            "id": 4,
+            "nome": "Pastel Quentinho",
+            "descricao": "Um pastel frito na hora com muito recheio.",
+            "preco": 5.00,
+            "imagem": "imagens/pastel-quentinho.jpg"
+          }
+        ]
+      },
+      {
+        "nome": "Porções",
+        "itens": [
+          {
+            "id": 5,
+            "nome": "Batata com Bacon",
+            "descricao": "Bata frita com bacon frito.",
+            "preco": 17.00,
+            "imagem": "imagens/bb.jpg"
+          },
+          {
+            "id": 6,
+            "nome": "Bata Cheddar Bacon",
+            "descricao": "Batata com recheio de Cheddar com Bacon frito.",
+            "preco": 20.00,
+            "imagem": "imagens/bcb.jpg"
+          }
+        ]
+      },
+      {
+        "nome": "Bebidas",
+        "itens": [
+          {
+            "id": 7,
+            "nome": "Refrigerante Coca-Cola 500ml",
+            "descricao": "Um refrigerante bem gelado para acompanhar.",
+            "preco": 4.00,
+            "imagem": "imagens/coca.jpg"
+          },
+          {
+            "id": 8,
+            "nome": "Suco Del Valle Uva 500ml",
+            "descricao": "Um suco para refrescar seu dia.",
+            "preco": 5.50,
+            "imagem": "imagens/delvalle.jpg"
+          }
+        ]
+      }
+    ]
+  }
+  
